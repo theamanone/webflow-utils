@@ -1,6 +1,10 @@
 # Dependencies
 node_modules
 /node_modules
+/node_modules/**
+/testing/node_modules
+/testing/node_modules/**
+testing/next
 .pnp
 .pnp.js
 
